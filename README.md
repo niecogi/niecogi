@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nieves</h1>
-<h3 align="center">A passionate web developer from Valencia,Spain</h3>
+<h3 align="center">A passionate web developer from Valencia, Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niecogi&label=Profile%20views&color=0e75b6&style=flat" alt="niecogi" /> </p>
 
