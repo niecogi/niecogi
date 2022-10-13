@@ -9,6 +9,8 @@
 
 - 🌱 I’m currently working on improving my English
 
+- ✨ I do katas on: [codewars.com/users/Niecogi](https://www.codewars.com/users/Niecogi)
+
 - 🐶 Fun fact: **I love pugs**
 
 <h3 align="left">Connect with me:</h3>
