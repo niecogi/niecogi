@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently working on improving my English
 
-- ✨ I do katas on: [codewars.com/users/Niecogi](https://www.codewars.com/users/Niecogi)
+- ✨ I do katas on: [codewars.com/users/Niecogi](https://www.codewars.com/users/Niecogi) and some programming exercices on: [https://codesandbox.io/u/nievescodes](https://codesandbox.io/u/nievescodes) 💻
 
 - 🐶 Fun fact: **I love pugs**
 
